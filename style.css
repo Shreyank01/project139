@@ -1,0 +1,42 @@
+body
+{
+ background-size:cover;
+ background-position: center;
+}
+
+.heading{
+    width:100%;
+    text-align: left;
+}
+
+.heading h1 {
+    color:white;
+    font-size: 30px;
+    display:inline;
+}
+
+.heading button{
+    border-color: white;
+    float:right;
+    
+}
+
+.modal-dialog {
+    width:90%;
+}
+
+#Play_button , #status {
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
+}
+
+
+.to_bottom{
+    margin:0px;
+    background-color: white;
+    line-height: 2;
+    text-align: center;
+}
